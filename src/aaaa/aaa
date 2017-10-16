@@ -10,8 +10,13 @@ import java.util.Random;
 
 public class gui  {
 	static JFrame frame= new JFrame();
+<<<<<<< HEAD
 	static int max_str=1024;
+	static Graph G = new Graph();；；
+=======
+	static int max_str=1111;
 	static Graph G = new Graph();
+>>>>>>> C4
 	
 	public static void main(String[] args) {
 		gui gui =new gui();
