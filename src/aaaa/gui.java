@@ -10,6 +10,7 @@ import java.util.Random;
 import java.awt.Desktop;
 
 public class gui  {
+	static int test_temp=1111;
 	static JFrame frame= new JFrame();
 	static int max_str=1024;
 	static Graph G = new Graph();

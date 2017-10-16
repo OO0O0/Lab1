@@ -7,7 +7,6 @@ import java.awt.event.MouseListener;
 import java.io.*;
 import java.util.*;
 import java.util.Random;
-import java.awt.Desktop;
 
 public class gui  {
 	static JFrame frame= new JFrame();
